@@ -7,6 +7,9 @@
 # Project exclude paths
 /api/build/
 /api/build/classes/java/main/
+/api/.settings
+# Project exclude paths
 /core/build/
 /core/build/classes/java/main/
 /core/build/classes/java/test/
+/core/.settings
