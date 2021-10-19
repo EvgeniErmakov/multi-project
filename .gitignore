@@ -16,3 +16,6 @@
 /core/build/classes/java/main/
 /core/build/classes/java/test/
 /core/.settings
+gradlew.bat
+gradlew
+/gradle/wrapper
