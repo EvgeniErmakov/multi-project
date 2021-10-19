@@ -19,3 +19,4 @@
 gradlew.bat
 gradlew
 /gradle/wrapper
+/core/.settings/
